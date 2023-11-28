@@ -8,7 +8,9 @@ aidencaptcha@gmail.com
 
 # 更新说明
 
-2023-10-29: DingxiangCaptchaBreak 全新上线
+* 2023-11-25: 上线 VivoPhoneAuthCheckSpider 【vivo官网-手机真伪查询】 案例
+
+* 2023-10-29: DingxiangCaptchaBreak 全新上线
 
 效果图：
 
