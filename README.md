@@ -31,7 +31,7 @@ Web/APP/小程序都通用
 
 # api 例子地址
 
-* [None](None)
+* [vivo官网-手机真伪查询](https://github.com/aidencaptcha/VivoPhoneAuthCheckSpider)
 
 
 
