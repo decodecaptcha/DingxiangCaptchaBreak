@@ -1,9 +1,7 @@
 # DingxiangCaptchaBreak
 关于顶象验证码无感/滑块/点选/图标/拼图验证码 ak, appKey, greenseer, Param, ac, token等参数的研究 纯协议 纯算法还原, 支持大并发
 
-有需求请在邮箱联系
-
-aidencaptcha@gmail.com
+有需求请访问：https://decodecaptcha.com
 
 
 # 更新说明
